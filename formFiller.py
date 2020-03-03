@@ -1,5 +1,6 @@
 #! python3
 # formFiller.py - Automatically fills in a form.
+# use mouseNow,py to get coords to fields.
 
 import pyautogui
 import time
